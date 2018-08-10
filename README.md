@@ -11,7 +11,7 @@ npm install
 # 本地运行项目
 gulp
 
-# 需要与后台对接（服务器部署）
+# 服务器部署
 gulp build
 
 build 结束后 生成 'static' 文件夹
